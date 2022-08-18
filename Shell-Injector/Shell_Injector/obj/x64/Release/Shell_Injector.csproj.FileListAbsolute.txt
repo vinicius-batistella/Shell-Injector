@@ -1,0 +1,7 @@
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\bin\x64\Release\Shell_Injector.exe.config
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\bin\x64\Release\Shell_Injector.exe
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\bin\x64\Release\Shell_Injector.pdb
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\obj\x64\Release\Shell_Injector.csproj.AssemblyReference.cache
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\obj\x64\Release\Shell_Injector.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\obj\x64\Release\Shell_Injector.exe
+C:\Users\vinic\Source\Repos\Shell_Injector\Shell_Injector\obj\x64\Release\Shell_Injector.pdb
