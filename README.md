@@ -11,3 +11,5 @@ Shell-Injector is a small project written in C# that inject a shellcode payload 
 ![powershell-1](https://user-images.githubusercontent.com/87672627/185514509-6c933c3e-062f-4038-b7aa-1c5b70f31e14.png)
 
 ![powershell-2](https://user-images.githubusercontent.com/87672627/185514515-b6fbc618-9a7a-4390-bfe2-81c892dcad48.png)
+
+For a explanation about this project, check up my [blog post](https://medium.com/@vinicius.batistella.99/injecting-shell-code-payload-into-processes-ced3a0650fc).
